@@ -1,0 +1,11 @@
+*
+!.gitignore
+!*.cs
+!*.csproj
+!*.resx
+!*.settings
+!*.sln
+!*.vcxproj
+!InjectDll
+!InjectDll/Properties
+!LICENSE

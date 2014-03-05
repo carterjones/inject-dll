@@ -1,5 +1,6 @@
 *
 !.gitignore
+!*.config
 !*.cs
 !*.csproj
 !*.resx

@@ -8,4 +8,6 @@
 !*.vcxproj
 !InjectDll
 !InjectDll/Properties
+!plugins
+!plugins/bunseki
 !LICENSE

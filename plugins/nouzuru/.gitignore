@@ -1,0 +1,13 @@
+*
+!.gitignore
+!*.cs
+!*.csproj
+!*.resx
+!*.settings
+!*.sln
+!*.vcxproj
+!DebuggerCLI
+!Nouzuru
+!README.md
+!Tests
+!LICENSE
